@@ -1,0 +1,5 @@
+
+whoami
+ls
+pwd
+
